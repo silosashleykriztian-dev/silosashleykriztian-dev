@@ -10,12 +10,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
-### Hey there! I'm [Ashley Silos] 👋
+### Hey there! I'm [shley Silos 👋
 
-> [Tomorrow Comes.]
+> Tomorrow Comes.
 
-I'm a **[3]-year Computer Science student** at [AUF].
-I love turning ideas into code, especially when it involves [with games].
+I'm a **3-year Computer Science student** at AUF.
+I love turning ideas into code, especially when it involves games.
 
 ---
 
